@@ -6,8 +6,6 @@
  * Time: 16:25
  */
 namespace km\test;
-use Doctrine\Common\Annotations\Annotation\Target;
-
 /**
  * Class TestBase
  * @package km\test
