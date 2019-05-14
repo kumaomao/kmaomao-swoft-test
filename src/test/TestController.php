@@ -31,5 +31,6 @@ class TestController
      */
     public function around(ProceedingJoinPoint $proceedingJoinPoint){
         var_dump($proceedingJoinPoint);
+        
     }
 }
