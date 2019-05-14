@@ -1,0 +1,19 @@
+{
+    "name": "km/swoft_test",
+    "description": "just for test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kumaomao",
+            "email": "z1083271136@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "km\\test": "src/"
+        }
+    },
+    "require": {}
+}
