@@ -6,15 +6,16 @@
  * Time: 16:29
  */
 
-namespace km\test;
+namespace km\test\test;
 
+use Swoft\Aop\ProceedingJoinPoint;
 use Swoft\Bean\Annotation\Around;
 use Swoft\Bean\Annotation\Aspect;
 use Swoft\Bean\Annotation\PointAnnotation;
 
 /**
  * Class TestController
- * @package km\test
+ * @package km\test\test
  * @Aspect()
  * @PointAnnotation(
  *     include={

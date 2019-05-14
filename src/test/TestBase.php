@@ -5,10 +5,10 @@
  * Date: 2019/5/14
  * Time: 16:25
  */
-namespace km\test;
+namespace km\test\test;
 /**
  * Class TestBase
- * @package km\test
+ * @package km\test\test
  * @Target("METHOD")
  */
 class TestBase
